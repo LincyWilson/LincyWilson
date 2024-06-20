@@ -3,11 +3,11 @@
 <h3 align="center">A passionate Data Science Student</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
-- 🌱 I’m currently learning **Power BI**
+- 🌱 I’m currently practicing **Power BI**
 
-- 💬 Ask me about **Machine Learning**
+- 💬 Feel free to ask me about **Mathematics, Statistics and Machine Learning**
 
-- 📫 How to reach me **lincypriyadarsini@gmail.com**
+- 📫 Reach me through **lincypriyadarsini@gmail.com**
 
 - ⚡ Fun fact **I am powered by coffee - turning caffeine into code**
 
