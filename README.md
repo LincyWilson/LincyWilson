@@ -15,7 +15,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/lincywilson/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lincy priyadarsini wilson" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/lincypwilson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lincy wilson" height="30" width="40" /></a>
-<a href="https://instagram.com/_lincy_wilson_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_lincy_wilson_" height="30" width="40" /></a>
 <a href="https://medium.com/@lincypriyadarsini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@lincypriyadarsini" height="30" width="40" /></a>
 </p>
 
