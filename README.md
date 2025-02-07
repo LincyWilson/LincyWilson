@@ -1,11 +1,11 @@
 [![Masterhead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)](https://LincyWilson.io)
 <h1 align="center">Hi 👋, I'm Lincy Wilson</h1>
-<h3 align="center">A passionate Data Science Student</h3>
+<h3 align="center">A passionate Data Science Graduate</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
-- 🌱 Currently practicing: **Power BI**
+- 🌱 Currently practicing: **ETL (Extract, Transform, Load) processes**
 
-- 💬 Ask me about: **Mathematics, Statistics, Machine Learning**
+- 💬 Ask me about: **Mathematics, Statistics, Data Analysis, and Machine Learning**
 
 - 📫 Contact: **lincypriyadarsini@gmail.com**
 
